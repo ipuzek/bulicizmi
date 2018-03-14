@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "420383309",
+    "hash" : "0",
     "id" : "F1EC81D7",
-    "lastKnownWriteTime" : 1521069645,
-    "last_content_update" : 1521069645,
+    "lastKnownWriteTime" : 1521070818,
+    "last_content_update" : 1521070818737,
     "path" : "~/mali_git_projekti/bulicizmi/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "42,18",
+        "scrollLine" : "34"
     },
     "relative_order" : 1,
     "source_on_save" : false,

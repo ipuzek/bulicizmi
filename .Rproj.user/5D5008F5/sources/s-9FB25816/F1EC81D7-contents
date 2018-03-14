@@ -1,4 +1,5 @@
-baseurl = "/"
+baseurl = "https://ipuzek.github.io/bulicizmi/"
+publishDir = "docs"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium-theme"
@@ -37,3 +38,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     height = 50
     alt = "Logo"
 
+draft = false # if set to true, changes will not be published
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
+picture = "logo.png" # the path to the logo
+
+# Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
+# they have to be referred from static root. Example
+  [[params.customCSS]]
+    href = "css/my-style.css"
+
+# Custom JS. Put here your custom JS files. They are loaded after the theme JS;
+# they have to be referred from static root. Example
+  [[params.customJS]]
+    src = "js/myjs.js"
