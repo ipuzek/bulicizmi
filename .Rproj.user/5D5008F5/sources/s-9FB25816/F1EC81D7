@@ -12,8 +12,8 @@
     "path" : "~/mali_git_projekti/bulicizmi/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "42,18",
-        "scrollLine" : "34"
+        "cursorPosition" : "35,20",
+        "scrollLine" : "31"
     },
     "relative_order" : 1,
     "source_on_save" : false,
