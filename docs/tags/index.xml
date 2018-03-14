@@ -6,10 +6,28 @@
     <description>Recent content in Tags on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2017 23:41:14 -0500</lastBuildDate>
     
 	<atom:link href="/bulicizmi/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#Rstats</title>
+      <link>/bulicizmi/tags/#rstats/</link>
+      <pubDate>Tue, 22 Aug 2017 23:41:14 -0500</pubDate>
+      
+      <guid>/bulicizmi/tags/#rstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogdown</title>
+      <link>/bulicizmi/tags/blogdown/</link>
+      <pubDate>Tue, 22 Aug 2017 23:41:14 -0500</pubDate>
+      
+      <guid>/bulicizmi/tags/blogdown/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plot</title>
@@ -23,7 +41,7 @@
     <item>
       <title>R Markdown</title>
       <link>/bulicizmi/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 22 Aug 2017 23:41:14 -0500</pubDate>
       
       <guid>/bulicizmi/tags/r-markdown/</guid>
       <description></description>
