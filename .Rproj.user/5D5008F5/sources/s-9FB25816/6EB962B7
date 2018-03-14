@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2864167314",
+    "hash" : "3756344147",
     "id" : "6EB962B7",
-    "lastKnownWriteTime" : 1521071189,
-    "last_content_update" : 1521071189443,
+    "lastKnownWriteTime" : 1521071306,
+    "last_content_update" : 1521071306190,
     "path" : "~/mali_git_projekti/bulicizmi/content/post/2018-03-15-mali_vobleri.Rmd",
     "project_path" : "content/post/2018-03-15-mali_vobleri.Rmd",
     "properties" : {
-        "cursorPosition" : "16,3",
-        "scrollLine" : "1"
+        "cursorPosition" : "18,40",
+        "scrollLine" : "3"
     },
     "relative_order" : 2,
     "source_on_save" : false,
