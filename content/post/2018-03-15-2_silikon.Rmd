@@ -1,0 +1,19 @@
+---
+title: "bulicizam br. 2"
+author: "Ivan"
+date: 2018-03-15
+draft: false
+categories: ["R"]
+tags: ["R Markdown", "blogdown", "#rstats"]
+thumbnailImagePosition: left
+thumbnailImage: ./images/logo.png
+metaAlignment: center
+disable_comments: true
+output:
+  blogdown::html_page:
+    toc: false
+    fig_width: 8
+    css: "/css/my-style.css"
+---
+
+Meki silikon osigurava više grizova.
